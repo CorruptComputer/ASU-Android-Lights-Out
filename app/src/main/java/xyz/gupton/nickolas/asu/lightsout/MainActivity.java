@@ -97,7 +97,7 @@ public class MainActivity extends AppCompatActivity {
             textView.setTextColor(Color.WHITE);
             textView.setBackgroundColor(Color.rgb(20, 150, 20));
         } else {
-            textView.setText("Can you turn all thee lights out?");
+            textView.setText("Can you turn all the lights out?");
             textView.setTextColor(Color.BLACK);
             textView.setBackgroundColor(Color.WHITE);
         }
